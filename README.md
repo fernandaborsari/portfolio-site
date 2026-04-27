@@ -20,16 +20,3 @@ After downloading, place the files in `NTX_REAL_ESTATE_ANALYSIS/pipeline/data/ra
 
 ---
 
-### Academic Stress — ETL Pipeline
-
-| Source | Link |
-|---|---|
-| Kaggle — Student Stress Factors dataset | [kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis) |
-
----
-
-## Tech Stack
-
-- HTML5 · Tailwind CSS (CDN)
-- Google Fonts — Inter
-- No build step required — open `index.html` directly in the browser
